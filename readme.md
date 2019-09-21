@@ -27,7 +27,7 @@ One Work 首先是一个面向中小型（小微型）企业的管理系统，�
 * [社会价值第一](precept.md#社会价值第一)
 * [生态](precept.md#生态)
 * [开放](precept.md#开放)
-
+* [注重人力的价值](precept.md)
 
 ## 需求分析
 
