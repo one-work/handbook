@@ -26,7 +26,7 @@ One Work 基于其姊妹开源项目 [Work Design](https://github.com/work-desig
 * CRM系统；
 * 询价系统；
 
-基于这些组件，遵循 Work Design 的[开发指南](https://github.com/work-design)，自由的添加针对自身企业的个性化需求，即可实现快速开发。
+基于这些组件，遵循 Work Design 的[开发指南](https://github.com/work-design/work.design)，自由的添加针对自身企业的个性化需求，即可实现快速开发。
 
 ## 商业模式
 One Work 首先是一个面向中小型（小微型）企业的管理系统，我们的企业用户会基于 One Work 这套系统向 C端用户提供服务。
@@ -48,5 +48,5 @@ One Work 首先是一个面向中小型（小微型）企业的管理系统，�
 
 ## One Work 需求及功能分析
 
-* [技术输出服务](to_b.md)
-* [新型人力资源服务](index.md)
+* [技术输出服务](tech.md)
+* [新型人力资源服务](partnership.md)
