@@ -14,7 +14,7 @@
 
 力求尽可能促进项目的成功率，降低企业创业成本。
 
-One Work 基于其姊妹开源项目 [Work Design](https://github.com/work-design) 所提供的系列开源组件进行组装和开发，Work Design 富有创新性的架构使得其所提供的功能既可以作为 SaaS 系统对外提供，也可以用于企业独立部署使用和二次开发。
+[One Work](https://github.com/one-work/one.work) 基于姊妹开源项目 [Work Design](https://github.com/work-design) 所提供的一系列组件进行组装和开发，Work Design 富有创新性的架构使得其所提供的功能既可以作为 SaaS 系统对外提供，也可以用于企业独立部署使用和二次开发。
 
 除了 One Work 项目本身开源以外，Work Design 提供的组件涵盖了大量的常规需求。诸如：
 * [OA / 组织架构 / SaaS](https://github.com/work-design/rails_org)
