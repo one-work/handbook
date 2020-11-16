@@ -1,6 +1,6 @@
-# Work Design 工作设计技术介绍
+# Work Design 技术体系
 
-Work Design 是一套追求高效率产出，低成本的软件方案。由以下几部分组成：
+Work Design 的技术体系是一套追求高效率产出，低成本的软件方案。由以下几部分组成：
 
 * 软件快速开发体系：
   * 基于公认效率最高的 Web 全栈开发框架：[Ruby On Rails](https://github.com/rails/rails) ，相对常规 Rails 开发提升 2~3 倍效率（基于代码总量判断）；
