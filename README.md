@@ -34,7 +34,7 @@
 * [社会价值第一](precept.md#社会价值第一)
 * [生态](precept.md#生态)
 * [开放](precept.md#开放)
-* [扬长避短](precept.md#扬长避短)：
+* [平衡的艺术](precept.md#平衡的艺术)：
 
 ## 其他应用领域
 
