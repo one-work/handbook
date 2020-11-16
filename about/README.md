@@ -1,4 +1,4 @@
-# Work Design 工作设计
+# Work Design 工作设计技术介绍
 
 Work Design 是一套追求高效率产出，低成本的软件方案。由以下几部分组成：
 
