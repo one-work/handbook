@@ -15,11 +15,9 @@
 
 力求尽可能促进项目的成功率，降低企业创业成本。
 
-[Work Design](https://github.com/work-design/work.design) 基于一系列开源组件 [Work Design](https://github.com/work-design/engine) 所提供的一系列组件进行组装和快速开发，Work Design 富有创新性的架构使得其所提供的功能既可以作为 SaaS 系统对外提供，也可以用于企业独立部署使用和二次开发。
+[Work Design](https://github.com/work-design/work.design) 基于一系列的[开源组件](https://github.com/work-design/engine)进行组装和快速开发，Work Design 富有创新性的架构使得其所提供的功能既可以作为 SaaS 系统对外提供，也可以用于企业独立部署使用和二次开发。
 
-除了 Work Design 项目本身开源以外，Work Design 提供的组件涵盖了大量的常规需求。[可用组件列表](https://github.com/work-design/engine)
-
-基于这些组件，遵循 Work Design 的[开发指南](https://github.com/work-design/work.design)，自由的添加针对自身企业的个性化需求，即可实现快速开发。
+除了 Work Design 项目本身开源以外，Work Design 提供的组件涵盖了大量的常规需求。基于这些组件，遵循 Work Design 的[开发指南](https://github.com/work-design/work.design)，自由的添加针对自身企业的个性化需求，即可实现快速开发。
 旨在打造一个开发成本低，维护简单，扩展灵活的应用框架，支持微信等多端。
 
 ## [盈利模式](profit.md)
