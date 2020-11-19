@@ -1,6 +1,6 @@
 # Work Design 工作设计
 
-[Work Design](https://work.design) 是更适用于现代企业的通用管理系统和数字化方案，以期实现如下目标：
+[Work Design](https://work.design) 是更适用于现代企业的通用管理系统，以期实现如下目标：
 
 * 帮助企业专注于自己的核心业务，我们应该让老板和员工尽可能少地花费精力在核心工作以外的事情上，如报销；
 * 更公平、更科学的产出评价体系：让员工的付出和回报成正比。仅仅通过上班时间衡量员工产出的企业一定是管理水平低下的，如果有一套更好的体系对工作产出进行评价，会减少很多无意义的 996。
@@ -21,7 +21,7 @@
 
 [Work Design](https://github.com/work-design/work.design) 基于一系列[开源组件](https://github.com/work-design/engine)进行组装和快速开发，Work Design 富有创新性的架构使得其所提供的功能既可以作为 SaaS 系统对外提供，也可以用于企业独立部署使用和二次开发。
 
-除了 Work Design 本项目开源以外，Work Design 提供的组件涵盖了大量的常规需求。基于这些组件，遵循 Work Design 的[开发指南](https://github.com/work-design/work.design)，自由的添加针对自身企业的个性化需求，即可实现快速开发。
+除了 Work Design 本项目开源以外，Work Design 提供的组件涵盖了大量的常规需求。基于这些组件，遵循 Work Design 的[开发指南](about)，自由的添加针对自身企业的个性化需求，即可实现快速开发。
 
 ## 可持续性运营
 
